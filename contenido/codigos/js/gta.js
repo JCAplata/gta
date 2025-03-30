@@ -4,5 +4,5 @@ function moveSlide() {
     index = (index + 1) % slides.length;
     document.querySelector(".carousel-container").style.transform = `translateX(-${index * 100}%)`;
 }
-setInterval(moveSlide, 3000);
+setInterval(moveSlide, 2000);
 

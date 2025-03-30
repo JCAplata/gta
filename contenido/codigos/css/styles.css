@@ -35,7 +35,6 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    background-color: #000; /* Fondo negro para las imágenes */
 }
 
 .carousel-slide img {
